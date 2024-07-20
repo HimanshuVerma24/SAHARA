@@ -190,10 +190,16 @@ svg {
   font-weight: 100;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
+a{
+   text-decoration: none;
+}
 
 
 /* ------------------------------------------------------------------------------------- */
 
+a{
+   text-decoration: none;
+}
 
 
 
